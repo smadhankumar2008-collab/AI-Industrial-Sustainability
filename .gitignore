@@ -29,3 +29,4 @@ Thumbs.db
 # Remove these lines if you intentionally want to publish your dataset
 # *.csv
 # *.xlsx
+*.pkl
