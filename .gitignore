@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+*.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# SQL backups
+*.bak
+
+# Python generated datasets
+# Remove these lines if you intentionally want to publish your dataset
+# *.csv
+# *.xlsx
